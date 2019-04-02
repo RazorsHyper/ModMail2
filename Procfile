@@ -1,1 +1,1 @@
-worker node package.json
+worker node webserver.js
