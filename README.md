@@ -1,0 +1,2 @@
+# ModMail
+Host test*
